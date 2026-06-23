@@ -1,6 +1,6 @@
 DEMO: https://uijtdehaag.github.io/BAG-Adres-Selectie/
 
-Hier is het beknopte reproductiescript:
+Vibe Coding met Claude:
 
 ---
 
